@@ -1,0 +1,17 @@
+h1{
+    font-style: italic;
+}
+p{
+    color: aquamarine;
+}
+div{
+    background-color: beige;
+}
+img{
+    width: 200px;
+    border: 2px solid greenyellow;
+}
+h3{
+    color: blue;
+    border: 1px solid red;
+}
